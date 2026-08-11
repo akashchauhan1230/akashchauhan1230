@@ -68,7 +68,7 @@ web applications.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](in/akash-chauhan-762319357)
+[LinkedIn](https://www.linkedin.com/in/akash-chauhan-762319357)
 [GitHub](https://github.com/akashchauhan1230)
 [Portfolio](#)
 
