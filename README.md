@@ -65,27 +65,6 @@ web applications.
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashchauhan1230&show_icons=true&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashchauhan1230&layout=compact&hide_border=true" height="180"/>
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashchauhan1230&hide_border=true" height="180"/>
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashchauhan1230&row=1&margin-w=15&no-frame=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
