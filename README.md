@@ -70,7 +70,7 @@ web applications.
 
 [LinkedIn](https://www.linkedin.com/in/akash-chauhan-762319357)
 [GitHub](https://github.com/akashchauhan1230)
-[Portfolio](akash-portfolio-five-delta.vercel.app)
+[Portfolio](akash-portfolio-bhc46q3um-none-69d9.vercel.app)
 
 ---
 
